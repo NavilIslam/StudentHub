@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.navil.studenthub.ExamUtilsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-08-27T19:38:04" hostname="NAVIL" time="0.011">
+  <properties/>
+  <testcase name="testExamStatus_completed" classname="com.navil.studenthub.ExamUtilsTest" time="0.004"/>
+  <testcase name="testStartEndTimes" classname="com.navil.studenthub.ExamUtilsTest" time="0.005"/>
+  <testcase name="testExamStatus_futureDates" classname="com.navil.studenthub.ExamUtilsTest" time="0.001"/>
+  <testcase name="testExamStatus_pastDate" classname="com.navil.studenthub.ExamUtilsTest" time="0.0"/>
+  <testcase name="testDaysUntilExam" classname="com.navil.studenthub.ExamUtilsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

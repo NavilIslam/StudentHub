@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.navil.studenthub.StudyTimerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-08-27T19:38:04" hostname="NAVIL" time="0.006">
+  <properties/>
+  <testcase name="formatMinutesToHoursAndMinutes formats correctly" classname="com.navil.studenthub.StudyTimerTest" time="0.002"/>
+  <testcase name="formatDuration formats MM SS correctly" classname="com.navil.studenthub.StudyTimerTest" time="0.001"/>
+  <testcase name="parseTimeToMinutes parses string correctly" classname="com.navil.studenthub.StudyTimerTest" time="0.003"/>
+  <testcase name="formatTimeMinutes formats 12 hour times correctly" classname="com.navil.studenthub.StudyTimerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

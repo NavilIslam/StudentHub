@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.navil.studenthub.ClassValidatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-08-27T19:38:04" hostname="NAVIL" time="0.011">
+  <properties/>
+  <testcase name="empty subject fails validation" classname="com.navil.studenthub.ClassValidatorTest" time="0.01"/>
+  <testcase name="end time earlier than start time fails validation" classname="com.navil.studenthub.ClassValidatorTest" time="0.0"/>
+  <testcase name="null day fails validation" classname="com.navil.studenthub.ClassValidatorTest" time="0.001"/>
+  <testcase name="valid class passes validation" classname="com.navil.studenthub.ClassValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

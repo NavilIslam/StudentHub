@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.navil.studenthub.TaskValidatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-08-27T19:38:04" hostname="NAVIL" time="0.001">
+  <properties/>
+  <testcase name="missing due date fails validation" classname="com.navil.studenthub.TaskValidatorTest" time="0.0"/>
+  <testcase name="empty task title fails validation" classname="com.navil.studenthub.TaskValidatorTest" time="0.0"/>
+  <testcase name="valid task passes validation" classname="com.navil.studenthub.TaskValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

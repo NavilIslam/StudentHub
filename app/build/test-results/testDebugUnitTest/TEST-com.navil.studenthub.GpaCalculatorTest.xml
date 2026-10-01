@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.navil.studenthub.GpaCalculatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-08-27T19:38:04" hostname="NAVIL" time="0.007">
+  <properties/>
+  <testcase name="empty courses returns zero GPA and zero credits" classname="com.navil.studenthub.GpaCalculatorTest" time="0.003"/>
+  <testcase name="CGPA calculation across multiple semesters is weighted accurately" classname="com.navil.studenthub.GpaCalculatorTest" time="0.003"/>
+  <testcase name="semester GPA with Course A 4_00 and Course B 3_00 equals 3_50" classname="com.navil.studenthub.GpaCalculatorTest" time="0.0"/>
+  <testcase name="multiple courses calculate weighted GPA correctly" classname="com.navil.studenthub.GpaCalculatorTest" time="0.0"/>
+  <testcase name="failed grade F gives zero points and affects GPA but is not completed credit" classname="com.navil.studenthub.GpaCalculatorTest" time="0.0"/>
+  <testcase name="zero credit protection returns zero GPA" classname="com.navil.studenthub.GpaCalculatorTest" time="0.0"/>
+  <testcase name="all grades mapping test" classname="com.navil.studenthub.GpaCalculatorTest" time="0.0"/>
+  <testcase name="single course calculates accurately" classname="com.navil.studenthub.GpaCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
